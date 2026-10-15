@@ -1,0 +1,1 @@
+{"name":"PJ App Store","short_name":"PJ Apps","description":"Discover apps from PJ Web Development","start_url":"/","display":"standalone","background_color":"#0c0b0a","theme_color":"#100d0a","icons":[{"src":"https://pjwebdev.online/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"}]}
